@@ -1,4 +1,4 @@
-class Solution {
+Class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
    int i=nums.size()-1;
